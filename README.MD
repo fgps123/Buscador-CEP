@@ -1,6 +1,6 @@
 # Projeto Buscador de CEP
 
-Este projeto em questão utiliza uma API pública para buscar CEPs
+Este projeto utiliza uma API pública para buscar CEPs
 através de seus números.
 
 ## Design do Projeto
@@ -37,6 +37,9 @@ CEPs utilizando um JSON como exemplo abaixo:
     - [X] Bairro
     - [X] Cidade
     - [X] Estado
+- [X] Responsividade da tela
+- [X] Fazer o rodapé
+- [X] Melhorar o design
 
 ## Contatos
 
